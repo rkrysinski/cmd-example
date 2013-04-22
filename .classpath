@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/rkrysinski/.m2/repository/org/apache/ant/ant-jsch/1.7.1/ant-jsch-1.7.1.jar">
+		<attributes>
+			<attribute name="maven.groupId" value="org.apache.ant"/>
+			<attribute name="maven.artifactId" value="ant-jsch"/>
+			<attribute name="maven.version" value="1.7.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
